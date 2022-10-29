@@ -83,4 +83,7 @@ Pada program ini kita membuat 3 variabel yaitu variabel luas dan phi menggunakan
 
 Selanjutnya user akan memasukan nilai r lewat sintak <b> r=input.nextInt(); </b> sintak ini merupakan objek input yang telah kita inisialisasi di dalam fungsi main() yang mengacu pada <b> class scanner. nextInt() </b> merupakan fungsi didalam class scanner yang menerima nilai inputan dengan tipe integer. Selanjutnya terdapat rumus <b> luas=phi*r*r; </b> rumus ini adalah rumus luas lingkaran nantinya nilai <b> phi (3,14) </b> akan dikalikan dengan jari-jari kuadrat. Terakhir sintak <b> System.out.println(“Luas Lingkaran = “+luas); </b> akan mencetak kalimat <b> “Luas lingkaran = “ </b> dengan menampilkan hasil perhitungan rumus luas lingkaran. </p>
 
+# Hasil Output Program: </p>
+![Output](screenshot/output.png </p>
+
 
